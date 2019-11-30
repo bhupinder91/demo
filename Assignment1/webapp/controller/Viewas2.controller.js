@@ -15,7 +15,7 @@ sap.ui.define([
 
 			oRouter.getRoute("View2").attachPatternMatched(this.getViewData, this);
 
-			//console.log(data);
+			//thryujy
 
 		},
 
